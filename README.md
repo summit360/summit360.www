@@ -1,13 +1,6 @@
-![Build Status](https://gitlab.com/summit360/summit360-web/badges/master/build.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77bca691-dc7b-41dc-af72-2ec04719a6d2/deploy-status)](https://app.netlify.com/sites/summit360-web/deploys)
 
----
-
-The 2019 Summit360 website, using [Hugo].
-
-## GitLab CI
-
-This project's static Pages are built by [GitLab CI][ci], following the steps
-defined in [`.gitlab-ci.yml`](.gitlab-ci.yml).
+The 2019 Summit360 website, using [Hugo], deployed via [Netlify]
 
 ## Building locally
 
@@ -38,6 +31,7 @@ The theme used is adapted from http://themes.gohugo.io/beautifulhugo/.
 
 [ci]: https://about.gitlab.com/gitlab-ci/
 [hugo]: https://gohugo.io
+[netlify]: https://netlify.com
 [install]: https://gohugo.io/overview/installing/
 [documentation]: https://gohugo.io/overview/introduction/
 [userpages]: http://doc.gitlab.com/ee/pages/README.html#user-or-group-pages

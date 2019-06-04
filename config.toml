@@ -1,8 +1,8 @@
-baseurl = "https://jovial-chandrasekhar-7670b4.netlify.com"
+baseurl = "https://summit360-web.netlify.com"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-title = "Beautiful Web"
+title = "Summit 360"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
@@ -14,7 +14,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "Hugo Blog Template"
+  subtitle = "Outdoor IT Specialist"
   logo = "img/avatar-icon.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
@@ -23,40 +23,26 @@ pygmentCodeFences = true
   comments = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
 
-#[[Params.bigimg]]
+# [[Params.bigimg]]
 #  src = "img/triangle.jpg"
 #  desc = "Triangle"
-#[[Params.bigimg]]
+# [[Params.bigimg]]
 #  src = "img/sphere.jpg"
 #  desc = "Sphere"
-#[[Params.bigimg]]
+# [[Params.bigimg]]
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
 [Author]
-  name = "Some Person"
-  email = "youremail@domain.com"
-  facebook = "username"
-  googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
-  gitlab = "username"
-  github = "username"
-  twitter = "username"
-  reddit = "username"
-  linkedin = "username"
-  xing = "username"
-  stackoverflow = "users/XXXXXXX/username"
-  snapchat = "username"
-  instagram = "username"
-  youtube = "user/username" # or channel/channelname
-  soundcloud = "username"
-  spotify = "username"
-  bandcamp = "username"
-  itchio = "username"
-  keybase = "username"
+  name = "Colin Densem"
+  email = "hello@summit360.co.uk"
+  gitlab = "colindensem"
+  github = "colindensem"
+  twitter = "colindensem"
 
 
 [[menu.main]]
-    name = "Blog"
+    name = "Home"
     url = ""
     weight = 1
 
@@ -64,28 +50,33 @@ pygmentCodeFences = true
     name = "About"
     url = "page/about/"
     weight = 3
+[[menu.main]]
+    name = "Contact"
+    url = "page/contact/"
+    weight = 3
+
 
 [[menu.main]]
-    identifier = "samples"
-    name = "Samples"
+    identifier = "projects"
+    name = "Projects"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Big Image Sample"
-    url = "post/2017-03-07-bigimg-sample"
+    parent = "projects"
+    name = "Go Outdoors"
+    url = "post/2013-03-01-gooutdoors"
     weight = 1
 
 [[menu.main]]
-    parent = "samples"
-    name = "Math Sample"
-    url = "post/2017-03-05-math-sample"
+    parent = "projects"
+    name = "BRISKODA"
+    url = "post/2002-10-31-briskoda"
     weight = 2
 
 [[menu.main]]
-    parent = "samples"
-    name = "Code Sample"
-    url = "post/2016-03-08-code-sample"
+    parent = "projects"
+    name = "Climbers Club"
+    url = "post/2014-06-18-climbers-club"
     weight = 3
 
 [[menu.main]]

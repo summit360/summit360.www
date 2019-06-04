@@ -1,9 +1,22 @@
-## Front Page Content
+## Bespoke IT Solutions
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-/ [Hugo](https://gohugo.io) and can be built in under 1 minute.
-Literally. It uses the `beautifulhugo` theme which supports content on your front page.
-Edit `/content/_index.md` to change what appears here. Delete `/content/_index.md`
-if you don't want any content here.
+We help you with the challenges you face as a small company, or individual professional in the outdoor world.
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+Drawing on our knowledge we can help you to establish a viable solution for your IT needs.
+
+Keeping it simple is important to us, so you can focus on your business and clients.
+
+We're focused on continuous delivery and rapid feedback, so you & your customers can gain feedback.
+
+We'll work with you to measure & implement the changes required for success.
+
+### How We Can Help
+
+- Project Discovery -
+  Working with you to understand your specific challenges. We'll work out the solution required.
+
+- Solutions - Not everything is solved with new software. We'll collaboratively explore your issues for a solution.
+
+- Delivery & Support - Any project delivered contains a product that needs to be maintained & improved upon. We'll support you.
+
+- Investigation - We can honestly discuss & brainstorm a specific challenge within your business. We'll help you find the right way.
